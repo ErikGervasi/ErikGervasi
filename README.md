@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ErikGervasi
-- 👀 I’m interested in Develop in Front End
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Javascript and Java
 - 📫 Reach me on my e-mail: erikluiz123.el@gmail.com 
 
 <!---
