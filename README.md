@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ErikGervasi
-- 🌱 I’m currently learning Java and C/C++
+- 🌱 I’m currently learning Java, Javascript and C/C++
 - 📫 Reach me on my e-mail: erikluiz123.el@gmail.com 
 
 <!---
